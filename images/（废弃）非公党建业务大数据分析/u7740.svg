@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="409px" height="189px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="857.94135645079" y1="353.39358490566" x2="857.94135645079" y2="541.919811320755" id="LinearGradient97">
+      <stop id="Stop98" stop-color="#ffffff" offset="0" />
+      <stop id="Stop99" stop-color="#d9001b" stop-opacity="0.388235294117647" offset="1" />
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="854.5" y1="337" x2="854.5" y2="526" id="LinearGradient100">
+      <stop id="Stop101" stop-color="#ffffff" offset="0" />
+      <stop id="Stop102" stop-color="#d7d7d7" offset="1" />
+    </linearGradient>
+  </defs>
+  <g transform="matrix(1 0 0 1 -650 -337 )">
+    <path d="M 854.5 337  C 969.02 337  1059 378.58  1059 431.5  C 1059 484.42  969.02 526  854.5 526  C 739.98 526  650 484.42  650 431.5  C 650 378.58  739.98 337  854.5 337  Z " fill-rule="nonzero" fill="url(#LinearGradient97)" stroke="none" />
+    <path d="M 854.5 337.5  C 968.74 337.5  1058.5 378.86  1058.5 431.5  C 1058.5 484.14  968.74 525.5  854.5 525.5  C 740.26 525.5  650.5 484.14  650.5 431.5  C 650.5 378.86  740.26 337.5  854.5 337.5  Z " stroke-width="1" stroke="url(#LinearGradient100)" fill="none" />
+  </g>
+</svg>

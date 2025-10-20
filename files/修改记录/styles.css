@@ -22,7 +22,7 @@
   left:0px;
   top:0px;
   width:660px;
-  height:744px;
+  height:1320px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -31,9 +31,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑', sans-serif;
-  font-weight:700;
   font-style:normal;
-  color:#333333;
 }
 #u0 {
   border-width:0px;
@@ -41,12 +39,10 @@
   left:40px;
   top:45px;
   width:660px;
-  height:744px;
+  height:1320px;
   display:flex;
   font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑', sans-serif;
-  font-weight:700;
   font-style:normal;
-  color:#333333;
 }
 #u0 .text {
   position:absolute;
